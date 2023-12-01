@@ -1,4 +1,4 @@
 ikr
 
-[!TIP]
-Respect your elders
+> [!TIP]
+> Respect your elders
